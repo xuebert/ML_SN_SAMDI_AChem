@@ -1,0 +1,50 @@
+Retention coefficient in TFA
+Free energy of solution in water 
+Solvation free energy
+Melting point
+Number of hydrogen-bond donors
+Number of full nonbonding orbitals
+Partition energy
+Hydration number
+Retention coefﬁcient in high performance liquid chromatography (HPLC), pH 7.4 
+Retention coefﬁcient in HPLC, pH 2.1 
+Partition coefﬁcient in thin-layer chromatography 
+Retention coefﬁcient at pH 2 
+Rf for 1-N-(4-nitrobenzofurazono)-amino acids in ethyl acetate/pyridine/water 
+dG of tranfer from organic solvent to water 
+Hydration potential or free energy of tranfer from vapor phase to water
+Rf salt chromatography 
+Log D, partition coefﬁcient at pH 7.1 for acetylamide derivatives of amino acidsin octanol/water
+dG = RT ln f, f = fraction buried/accessible amino acids in 22 proteins
+Average volume of buried residue 
+Residue accessible surface area in tripeptide 
+Graph shape index 
+Normalized van der Waals volume 
+STERIMOL length of the side chain 
+STERIMOL minimum width of the side chain 
+STERIMOL maximum width of the side chain 
+Average accessible surface area 
+Distance between C-alpha and centroid of side chain 
+Side-chain angle theta
+side chain torsion angle phi
+Radius of gyration of side chain 
+van der Waals parameter Ro
+van der Waals parameter epsilon
+Refractivity
+Value of theta(i)
+Substituent van der Waals volume
+aCH chemical shifts
+aNH chemical shifts
+A parameter of charge transfer capability 
+A parameter of charge transfer donor capability 
+Nuclear magnetic resonance (NMR) chemical shift of  carbon 
+Localized electrical effect 
+Positive charge
+Negative charge
+Polarity
+Net charge
+Amphiphilicity index
+Isoelectric point
+Electron-ion interaction potential values
+pKNH2(NH2 on C_alpha)
+pKCOOH(COOH on C_alpha)

@@ -1,0 +1,21 @@
+Amino Acid,1-Letter,Side-chain polarity,Side-chain charge (pH 7.4),Hydropathy index,MW(Weight)
+Alanine,A,nonpolar,neutral,1.8,89
+Arginine,R,basic polar,positive,-4.5,174
+Asparagine,N,polar,neutral,-3.5,132
+Aspartic acid,D,acidic polar,negative,-3.5,133
+Cysteine,C,nonpolar,neutral,2.5,121
+Glutamic acid,E,acidic polar,negative,-3.5,147
+Glutamine,Q,polar,neutral,-3.5,146
+Glycine,G,nonpolar,neutral,-0.4,75
+Histidine,H,basic polar,neutral,-3.2,155
+Isoleucine,I,nonpolar,neutral,4.5,131
+Leucine,L,nonpolar,neutral,3.8,131
+Lysine,K,basic polar,positive,-3.9,146
+Methionine,M,nonpolar,neutral,1.9,149
+Phenylalanine,F,nonpolar,neutral,2.8,165
+Proline,P,nonpolar,neutral,-1.6,115
+Serine,S,polar,neutral,-0.8,105
+Threonine,T,polar,neutral,-0.7,119
+Tryptophan,W,nonpolar,neutral,-0.9,204
+Tyrosine,Y,polar,neutral,-1.3,181
+Valine,V,nonpolar,neutral,4.2,117

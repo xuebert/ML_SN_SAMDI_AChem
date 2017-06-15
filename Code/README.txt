@@ -3,7 +3,7 @@ Authors: Xue, Albert; Szymczak, Lindsey; Mrksich, Milan; Bagheri, Neda
 
 To run any script, ensure that the current working directory is set to this Code folder
 
-Figures 2, 4, 5, 6 and Supporting Information Figures 1, 2, 4, and Supporting Tables 1 and 2 can all be created using scripts here
+Figures 2, 4, 5, 6 and Supporting Information Figures 1, 2, 3, 4, and Supporting Tables 1 and 2 can all be created using scripts here
 Significant post-processing was done to create final manuscript versions
 
 ######## description of subfolders #######

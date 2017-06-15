@@ -38,7 +38,7 @@ find_indices <- function(n_array = 1, n_position = 1, AA) {
 
 ########################################################################
 # # plot the distribution
-pdf(file = "figure_dump/Fig2_SN_distribution")
+pdf(file = "figure_dump/Fig2_SN_distribution.pdf")
 
 location_size = matrix(c(50, 25, 40, 25), ncol = 2) # found from plotting slopes
 ylim = list(c(0, 325), c(0,275))
